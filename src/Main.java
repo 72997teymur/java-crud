@@ -9,7 +9,7 @@ public class Main {
 
         while (choice != 4) {
             System.out.println("\n1. Show tasks");
-            System.out.println("2. Add task");
+            System.out.println("2. Davai zakonchim");
             System.out.println("3. Delete task");
             System.out.println("4. Exit");
             System.out.print("Choose: ");
